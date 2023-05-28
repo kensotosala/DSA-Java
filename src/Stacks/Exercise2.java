@@ -4,8 +4,7 @@ import java.util.Stack;
 
 public class Exercise2 {
     
-    // 2. Write a Java program to sort the elements of a given stack in ascending
-    // order.
+    // 2. Write a Java program to sort the elements of a given stack in ascending order.
 
     public static void main(String[] args) {
         // Define the Stack
