@@ -24,7 +24,7 @@ public class Exercise2 {
         // Call the method to sort
         sortNumbers(numbers);
 
-        // Stack after sorting
+        // Stack After Sorting
         System.out.println("Stack after sorting: " + numbers);
 
     }
