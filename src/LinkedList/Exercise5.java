@@ -7,6 +7,7 @@ public class Exercise5 {
     // the middle element and printing its value.
     
     public static void main(String[] args) {
+        System.out.println("Hi");
 
     }
 
